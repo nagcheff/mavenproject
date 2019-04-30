@@ -20,6 +20,7 @@
  <plugin>
           <groupId>org.apache.maven.plugins</groupId>
          <artifactId>maven-war-plugin</artifactId>
+         <version>3.6.1</version>
  <configuration>
          <outputDirectory>/home/nageshwar</outputDirectory>
   </configuration>
